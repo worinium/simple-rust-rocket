@@ -1,2 +1,2 @@
 # simple-rust-rocket
-A todo Web Application using rust and rocket
+A TODO Web Application using rust and rocket
